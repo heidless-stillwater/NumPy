@@ -10,3 +10,4 @@
 2024-11-30 13:03:54 WARNING  No such comm: 9cd9cfef-fb5b-4069-ba36-c9b06be8ce47
 2024-11-30 17:48:07 ERROR    No such comm target registered: jupyter.widget.control
 2024-11-30 17:48:07 WARNING  No such comm: ea907355-44ef-494c-847e-0cd087a7900c
+2024-12-31 15:37:51 INFO     col_names: Index(['buying', 'maint', 'door', 'persons', 'lug_boot', 'safety', 'class'], dtype='object')
